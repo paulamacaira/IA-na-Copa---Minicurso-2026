@@ -2,10 +2,13 @@
 
 Bem-vindo ao repositório oficial do minicurso **IA na Copa 2026**! 
 
-Este espaço contém todo o material didático, exemplos de código, datasets e tutoriais práticos utilizados durante as nossas sessões. O objetivo deste curso é explorar como técnicas de Inteligência Artificial e Ciência de Dados podem ser aplicadas para análise de desempenho, previsões de resultados e visualização de dados no contexto do futebol.
+Este espaço contém todo o material didático utilizados nos projetos do minicurso. O objetivo do minicurso é explorar como técnicas de Inteligência Artificial e Ciência de Dados podem ser aplicadas para análise de desempenho, previsões de resultados e visualização de dados no contexto do futebol.
 
 ## 🚀 Sobre o Curso
 Neste minicurso, unimos o entusiasmo pelo futebol com a aplicação técnica de modelos de aprendizado de máquina. Abordamos desde o tratamento de dados brutos até a implementação de modelos preditivos.
+Os dados utilizados nos dataset são ficticios, gerados a partir de outros datasets agrupados de forma aleatória. 
+
+
 
 ## 📂 Estrutura do Repositório
 *   `/data`: Conjuntos de dados utilizados nas práticas.
